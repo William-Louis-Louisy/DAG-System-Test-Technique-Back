@@ -1,0 +1,25 @@
+{
+  "name": "dag-system-test-technique-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/William-Louis-Louisy/DAG-System-Test-Technique-Back.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/William-Louis-Louisy/DAG-System-Test-Technique-Back/issues"
+  },
+  "homepage": "https://github.com/William-Louis-Louisy/DAG-System-Test-Technique-Back#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.15"
+  }
+}
